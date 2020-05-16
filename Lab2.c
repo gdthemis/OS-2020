@@ -1,10 +1,4 @@
-//
-//  main.c
-//  tsanakas22
-//
-//  Created by Georgios Themelis and Christos Siafarikas on 26/4/20.
-//  Copyright © 2020 Georgios Themelis and Christos Siafarikas. All rights reserved.
-//
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <sys/types.h>

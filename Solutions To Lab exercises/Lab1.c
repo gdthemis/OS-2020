@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//
-//  Created by christos on 23/3/20.
-//  Copyright © 2020 christos. All rights reserved.
-//
-
 #define BUFFER_SIZE 64
 
 #include <stdio.h>
